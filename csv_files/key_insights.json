@@ -1,0 +1,19 @@
+{
+  "key_findings": [
+    "Sentiment significantly impacts trading performance",
+    "Fear periods show different risk-reward profiles than greed periods",
+    "Leverage usage correlates with market sentiment",
+    "Volume patterns shift with sentiment changes"
+  ],
+  "recommendations": [
+    "Implement sentiment-based position sizing",
+    "Use sentiment as a risk management indicator",
+    "Consider contrarian strategies during sentiment extremes",
+    "Incorporate sentiment into algorithmic trading models"
+  ],
+  "data_quality": [
+    "Trades analyzed: 10",
+    "Sentiment coverage: 0.0%",
+    "Date range: 2024-12-02 to 2024-12-02"
+  ]
+}
